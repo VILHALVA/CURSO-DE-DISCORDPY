@@ -27,6 +27,6 @@ Discord.py foi criada por Rapptz (Danny), sendo a primeira versão lançada em 2
 - [VEJA A DOCUMENTAÇÃO](https://discordpy.readthedocs.io/en/stable/)
 - [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-PYTHON)
 - [VEJA O MANUAL](./MANUAL.md)
-- [VEJA TODOS OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=+topic:BOT+topic:DISCORDPY)
+- [VEJA TODOS OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=+topic:DISCORDPY)
 
 
